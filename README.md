@@ -26,7 +26,21 @@ Here are some ideas to get you started:
 
 
 # 📊 GitHub Stats:
-![snake animation](https://github.com/AmanKumar-0/AmanKumar-0/blob/output/github-contribution-grid-snake2.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/AmanKumar-0/AmanKumar-0/blob/output/github-contribution-grid-snake2.svg"
+  />
+<!--   <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  /> -->
+  <img
+    alt="github contribution grid snake animation"
+    src="https://github.com/AmanKumar-0/AmanKumar-0/blob/output/github-contribution-grid-snake2.svg"
+  />
+</picture>
+<!-- ![snake animation](https://github.com/AmanKumar-0/AmanKumar-0/blob/output/github-contribution-grid-snake2.svg) -->
 <img src="https://raw.githubusercontent.com/AmanKumar-0/AmanKumar-0/output/snake.svg" alt="Snake animation" />
 
 
