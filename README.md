@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 ![snake animation](https://github.com/AmanKumar-0/AmanKumar-0/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://raw.githubusercontent.com/AmanKumar-0/AmanKumar-0/output/snake.svg" alt="Snake animation" />
+
 
 ![](https://github-readme-stats.vercel.app/api?username=AmanKumar-0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AmanKumar-0&theme=dark&hide_border=false)<br/>
